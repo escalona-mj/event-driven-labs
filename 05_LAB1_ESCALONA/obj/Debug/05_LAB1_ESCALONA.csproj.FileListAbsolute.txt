@@ -1,0 +1,13 @@
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\bin\Debug\05_LAB1_ESCALONA.exe.config
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\bin\Debug\05_LAB1_ESCALONA.exe
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\bin\Debug\05_LAB1_ESCALONA.pdb
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\05_LAB1_ESCALONA.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\_05_LAB1_ESCALONA.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\_05_LAB1_ESCALONA.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\_05_LAB1_ESCALONA.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\05_LAB1_ESCALONA.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\05_LAB1_ESCALONA.exe
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\05_LAB1_ESCALONA.pdb
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\_05_LAB1_ESCALONA.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\_05_LAB1_ESCALONA.FrmStudentRecord.resources
+C:\Users\ComputerLab4PC1\source\repos\05_LAB1_ESCALONA\obj\Debug\_05_LAB1_ESCALONA.FrmOpenTextFile.resources
